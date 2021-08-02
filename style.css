@@ -70,7 +70,7 @@ header {
 /*---------------------Welcome---------*/
 .welcome {
     background-color: #030303;
-    background-image: url(/img/background-welcome.jpg);
+    background-image: url(/Museum1/img/background-welcome.jpg);
     background-repeat: no-repeat;
     background-size: 956px 653px;
     /*background-position: right;
@@ -284,7 +284,7 @@ header {
     padding-top: 69px;
 }
 .img-video {
-    background-image: url(/img/video.jpg);
+    background-image: url(/Museum1/img/video.jpg);
     background-position: center;
     height: 507px;
     background-size: 1152px 563px;
